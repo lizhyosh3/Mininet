@@ -3,8 +3,8 @@
 欄位 | 內容
 -----|--------
 學期 | 110 學年度下學期
-學生 |  施侑儒
-學號末兩碼 | 110710514
+學生 |  李中佑
+學號末兩碼 | 110710517
 ## 課堂筆記
 ### [第一週](https://github.com/lizhyosh3/Mininet/blob/main/%E7%AD%86%E8%A8%98/0214_week1.md)
 ### [第二週](https://github.com/lizhyosh3/Mininet/blob/main/%E7%AD%86%E8%A8%98/0221_week2.md)
